@@ -1,0 +1,17 @@
+# Starting list for data projects. Keep only the packages your project actually uses.
+# Once the project works, pin package versions (e.g. pandas==X.Y.Z) to ensure reproducibility.
+# Run `pip freeze` to list all installed packages and their exact versions.
+
+# Core data tools
+pandas
+numpy
+
+# Modeling
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+
+# Notebook kernel (needed to run .ipynb in VS Code)
+ipykernel
