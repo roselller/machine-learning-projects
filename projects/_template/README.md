@@ -1,6 +1,6 @@
-# <Project name>
+# [Project name]
 
-**Domain:** <label from CONVENTIONS.md> · **Status:** <Planned / In progress / Done> · **End-to-End:** <✔ or blank>
+**Domain:** [label from CONVENTIONS.md] · **Status:** [Planned / In progress / Done] · **End-to-End:** [✔ or blank]
 
 ## Problem
 **Explain what question is being answered and why anyone should care:**
