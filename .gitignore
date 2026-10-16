@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Python environments
+.venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Project data (keep each data/README.md)
+projects/*/data/*
+!projects/*/data/README.md
+
+# Zip files
+*.zip
+
+# Model files
+*.pkl
